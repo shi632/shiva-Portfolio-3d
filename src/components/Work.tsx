@@ -8,7 +8,7 @@ gsap.registerPlugin(ScrollTrigger, useGSAP);
 
 const Work = () => {
 
-  // 📌 Real Projects Based On Your Resume
+  
   const projects = [
     {
       number: "01",
