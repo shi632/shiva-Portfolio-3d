@@ -34,7 +34,5 @@ Custom designs and structure belong to me
 Do not reuse full UI/UX without permission
 📄 License
 
-This project is for personal portfolio showcase only.
-Reuse is restricted — credit is required.
 =======
 # Shivam-Portfolio 
