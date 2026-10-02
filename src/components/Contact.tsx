@@ -10,21 +10,21 @@ const Contact = () => {
           <div className="contact-box">
             <h4>Email</h4>
             <p>
-              <a href="mailto:example@mail.com" data-cursor="disable">
-                Shivamsharma79005@mail.com
+              <a href="mailto:shivamsharma79005@gmail.com" data-cursor="disable">
+                shivamsharma79005@gmail.com
               </a>
             </p>
             <h4>Phone</h4>
             <p>
-              <a href="tel:+9199999999" data-cursor="disable">
-                +91 93899 82912
+              <a href="tel:+919389982912" data-cursor="disable">
+                +91 9389982912
               </a>
             </p>
-            <h4>Address</h4>
+            <h4>Location</h4>
             <p>
-              <a href="Address" data-cursor="disable">
-                 Delhi-NCR, India
-              </a>
+              <span data-cursor="disable">
+                 Ghaziabad (Delhi-NCR), India
+              </span>
             </p>
           </div>
           <div className="contact-box">

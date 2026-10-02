@@ -12,49 +12,47 @@ const Work = () => {
   const projects = [
     {
       number: "01",
-      name: "Healthcare Management System",
-      category: "Backend Development",
+      name: "Task Manager API",
+      category: "Task & Team Management",
       tools:
-        "Java, Spring Boot, REST API, MySQL, Microservices",
-      image: "/images/MindCare.jpeg",
-    },
-
-    {
-      number: "02",
-      name: "User Authentication System",
-      category: "Security & Backend",
-      tools:
-        "Java, JWT, Session Management, Role-Based Access",
-      image: "/images/Authentication.jpeg",
-    },
-
-    {
-       number: "03",
-       name: "E-Commerce Web Application",
-       category: "Full Stack Development",
-       tools:
-        "Java, Spring Boot, REST API, MySQL, JWT Authentication, Payment Integration",
-       image: "/images/E-Commerce.png",
-    },
-
-    {
-      number: "04",
-      name: "Task Manager",
-      category: "Backend Architecture",
-      tools: "Java, Spring Boot, REST APIs, Microservices",
+        "Python, FastAPI, REST APIs, CRUD Operations, Authentication, PostgreSQL",
       image: "/images/TaskMangerAPI.jpeg",
     },
 
     {
-      number: "05",
-      name: "Portfolio Website",
-      category: "Frontend Development",
+      number: "02",
+      name: "ServioServicePlatform",
+      category: "Service Management Platform",
       tools:
-        "React, TypeScript, GSAP, CSS",
-      image: "/images/PortfolioWebsite.jpeg",
+        "Python, FastAPI, REST APIs, Database Integration, Operational Workflows",
+      image: "/images/Authentication.jpeg",
     },
 
-    
+    {
+      number: "03",
+      name: "Mind Matrix AI",
+      category: "AI Mental Wellness Platform",
+      tools:
+        "Python, Flask, AI Assessment, REST APIs, Database Integration",
+      image: "/images/MindCare.jpeg",
+    },
+
+    {
+      number: "04",
+      name: "Healthcare Management API",
+      category: "Healthcare & Insurance System",
+      tools: "Python, RESTful APIs, Swagger / OpenAPI, Postman Testing, Business Logic",
+      image: "/images/E-Commerce.png",
+    },
+
+    {
+      number: "05",
+      name: "3D Interactive Portfolio",
+      category: "Modern 3D Web Experience",
+      tools:
+        "React, TypeScript, Three.js, GSAP, Rapier Physics",
+      image: "/images/PortfolioWebsite.jpeg",
+    },
   ];
 
   useGSAP(() => {

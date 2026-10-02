@@ -7,11 +7,11 @@ const About = () => {
         <h3 className="title">About Me</h3>
 
         <p className="para">
-          A passionate Core Developer skilled in 
-          Java and Python with hands-on experience in backend development, 
-          REST APIs, and microservices. I have worked on healthcare and 
-          AI-based projects, focusing on building scalable, secure, 
-          and real-world applications.
+          Software Developer experienced in Python, FastAPI, REST APIs, API testing,
+          debugging, and database integration. Skilled in developing backend services,
+          integrating APIs, and building reliable web applications. Currently working at
+          Atvantiq Networks with a strong focus on backend development, software quality,
+          and robust data processing workflows.
         </p>
 
       </div>

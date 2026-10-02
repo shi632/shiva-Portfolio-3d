@@ -47,7 +47,7 @@ const WhatIDo = () => {
       <div className="what-box">
         <div className="what-box-in">
 
-          {/* ================= BACKEND DEVELOPMENT ================= */}
+          {/* ================= BACKEND & API DEVELOPMENT ================= */}
 
           <div
             className="what-content what-noTouch"
@@ -56,29 +56,29 @@ const WhatIDo = () => {
 
             <div className="what-content-in">
 
-              <h3>BACKEND DEVELOPMENT</h3>
+              <h3>BACKEND & API DEVELOPMENT</h3>
 
               <h4>Description</h4>
 
               <p>
-                I develop scalable backend systems using Java and Python,
-                focusing on REST API development, database management,
-                and secure microservices-based applications.
+                I develop scalable backend systems and high-performance RESTful APIs
+                using Python and FastAPI, focusing on API integration, data processing,
+                business logic implementation, and database architecture.
               </p>
 
               <h5>Skillset & tools</h5>
 
               <div className="what-content-flex">
 
-                <div className="what-tags">Java</div>
                 <div className="what-tags">Python</div>
-                <div className="what-tags">Spring Boot</div>
+                <div className="what-tags">FastAPI</div>
                 <div className="what-tags">REST APIs</div>
-                <div className="what-tags">Microservices</div>
+                <div className="what-tags">API Integration</div>
+                <div className="what-tags">PostgreSQL</div>
                 <div className="what-tags">MySQL</div>
-                <div className="what-tags">MongoDB</div>
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Express.js</div>
+                <div className="what-tags">Docker</div>
+                <div className="what-tags">AWS</div>
+                <div className="what-tags">Git & GitHub</div>
 
               </div>
 
@@ -88,7 +88,7 @@ const WhatIDo = () => {
 
           </div>
 
-          {/* ================= SOFTWARE & AI DEVELOPMENT ================= */}
+          {/* ================= API TESTING & SOFTWARE ENGINEERING ================= */}
 
           <div
             className="what-content what-noTouch"
@@ -97,28 +97,29 @@ const WhatIDo = () => {
 
             <div className="what-content-in">
 
-              <h3>SOFTWARE & AI DEVELOPMENT</h3>
+              <h3>TESTING & SOFTWARE ENGINEERING</h3>
 
               <h4>Description</h4>
 
               <p>
-                I build intelligent and real-world software solutions
-                including healthcare and AI-based applications,
-                focusing on clean architecture and performance optimization.
+                I ensure software quality through comprehensive API testing, validation,
+                debugging, and regression testing with Postman and Swagger, built on strong
+                foundations in OOP, DSA, DBMS, and OS concepts.
               </p>
 
               <h5>Skillset & tools</h5>
 
               <div className="what-content-flex">
 
-                <div className="what-tags">Machine Learning</div>
-                <div className="what-tags">AI Development</div>
-                <div className="what-tags">Data Structures</div>
-                <div className="what-tags">Algorithms</div>
-                <div className="what-tags">Git</div>
-                <div className="what-tags">Docker</div>
-                <div className="what-tags">Linux</div>
-                <div className="what-tags">Problem Solving</div>
+                <div className="what-tags">API Testing</div>
+                <div className="what-tags">Postman</div>
+                <div className="what-tags">Swagger / OpenAPI</div>
+                <div className="what-tags">Unit Testing</div>
+                <div className="what-tags">Integration Testing</div>
+                <div className="what-tags">Regression Testing</div>
+                <div className="what-tags">OOP & DSA</div>
+                <div className="what-tags">DBMS & OS</div>
+                <div className="what-tags">React.js & JS</div>
 
               </div>
 

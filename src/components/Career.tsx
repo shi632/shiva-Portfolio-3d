@@ -18,14 +18,13 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Software Development Intern</h4>
-                <h5>Deep Minds Technologies (Remote)</h5>
+                <h4>Software Developer</h4>
+                <h5>Atvantiq Networks, Mohali, Punjab</h5>
               </div>
-              <h3>Feb 2025 - Jul 2025</h3>
+              <h3>June 2026 - Present</h3>
             </div>
             <p>
-              Developed REST APIs using Java & Spring Boot, created API
-              documentation (Swagger), and performed testing with Postman.
+              Working on software development and backend application workflows involving APIs, business logic, application integration, and testing. Developing backend functionality with a focus on reliable API behavior, data processing, and performance.
             </p>
           </div>
 
@@ -33,14 +32,13 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>AI/ML Trainee</h4>
-                <h5>NVIDIA (DGX-A100)</h5>
+                <h4>Software Developer Intern</h4>
+                <h5>Deep Minds Technologies, USA (Remote)</h5>
               </div>
-              <h3>Oct 2024 - Jan 2025</h3>
+              <h3>Dec 2025 - May 2026</h3>
             </div>
             <p>
-              Worked on AI models, Docker, and deployment. Built projects like
-              face recognition and custom ML models.
+              Developed and maintained RESTful APIs using Python for healthcare insurance and preventive healthcare management systems. Created Swagger/OpenAPI documentation and performed API testing and debugging using Postman.
             </p>
           </div>
 
@@ -48,14 +46,13 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>B.Tech - Computer Science</h4>
-                <h5>AKTU, ABESIT Ghaziabad</h5>
+                <h4>B.Tech – CSE (AI)</h4>
+                <h5>ABESIT, AKTU</h5>
               </div>
-              <h3>2025 - 2026</h3>
+              <h3>2022 - 2026</h3>
             </div>
             <p>
-              CGPA: 7.23 | Focused on DSA, OOP, DBMS, AI/ML, and Software
-              Engineering.
+              CGPA: 7.37 / 10 | Class XII: 76% | Class X: 84.89% (UP Board). Strong foundation in OOP, DSA, DBMS, OS, and Software Engineering.
             </p>
           </div>
         </div>
