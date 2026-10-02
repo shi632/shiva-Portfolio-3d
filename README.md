@@ -1,38 +1,28 @@
-<<<<<<< HEAD
-🚀 Shivam Sharma - Portfolio Website
+# 🚀 Shivam K. Sharma - Portfolio Website
 
-This repository contains the open-source version of my personal portfolio website.
-It showcases my projects, skills, and experience as a Java Full Stack & Backend Developer.
+This repository contains the open-source version of my personal 3D interactive portfolio website.
+It showcases my projects, skills, and experience as a Python Backend Developer & Software Developer.
 
+## 👨‍💻 About Me
 
-— Shivam Sharma
+Software Developer experienced in:
+- **Python & FastAPI** Backend Development
+- **RESTful APIs** & API Integration
+- **API Testing & Debugging** (Postman, Swagger/OpenAPI)
+- **Database Architecture** (PostgreSQL, MySQL)
+- **Containerization & Cloud** (Docker, AWS)
 
-👨‍💻 About Me
+Currently working at **Atvantiq Networks** with a strong focus on backend services, API reliability, and high-quality software engineering.
 
-I am a passionate Core Developer (Python) with experience in:
+## 📂 Featured Projects
+- **Task Manager API** – Task & Team Management System (FastAPI, PostgreSQL, Authentication)
+- **ServioServicePlatform** – Service Management Platform (FastAPI, Database Integration)
+- **Mind Matrix AI** – AI-Powered Mental Wellness Platform (Python, Flask, AI Assessment)
+- **Healthcare Management API** – Healthcare Insurance & Workflow Systems (Python, Swagger, Postman)
+- **3D Interactive Portfolio** – Interactive 3D Web Portfolio (React, TypeScript, Three.js, GSAP)
 
-FAST API Development
-Microservices Architecture
-Backend Systems
-Cloud & Deployment
+## ⚙️ Tech Stack
+React • TypeScript • Three.js • React Three Fiber • GSAP • HTML • CSS • JavaScript
 
-I enjoy building scalable applications and solving real-world problems.
-
-📂 Projects
-🧠 Mind Matrix – AI Mental Wellness Platform
-Built REST APIs using Java & Python
-Implemented mood tracking system
-Used Swagger for API documentation
-Followed MVC architecture
-⚙️ Tech Used in Portfolio
-
-React • TypeScript • GSAP • Three.js • WebGL • HTML • CSS • JavaScript
-
-🎨 Assets Usage
-Some assets are free for learning
-Custom designs and structure belong to me
-Do not reuse full UI/UX without permission
-📄 License
-
-=======
-# Shivam-Portfolio 
+## 📄 License
+MIT License
